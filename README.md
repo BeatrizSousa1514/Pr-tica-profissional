@@ -40,7 +40,7 @@ Pesquisar e apresentar. Por não ter muita experiência no meio da programação
 
 6- Qual dos dois eixos despertou mais interesse? Por quê?
 
-
+Porque é uma questão importante que afeta muitos estudantes. Queremos entender por que alguns alunos deixam a escola e quais dificuldades enfrentam e o que pode ser feito para incentivar a permanência e a conclusão dos estudos.
 
 7- O que você gostaria de aprender durante o projeto?
 
@@ -58,12 +58,6 @@ O PPI não busca apenas um resultado completo, mas sim protótipos válidos a se
 
 “Uma dúvida ou um apoio de que ainda preciso é…”
 Entender como converter os dados brutos recolhidos no diagrama de classes e nas tabelas do banco de dados.
-
-
-
-
-
-
 
 
 
