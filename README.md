@@ -53,6 +53,11 @@ Acredito que eu irei precisar de ajuda na modelagem de dados e na estrutura de s
 
 Página 16.
 
+“Uma ideia que ficou mais clara sobre a PPI foi…”
+O PPI não busca apenas um resultado completo, mas sim protótipos válidos a serem utilizados.
+
+“Uma dúvida ou um apoio de que ainda preciso é…”
+Entender como converter os dados brutos recolhidos no diagrama de classes e nas tabelas do banco de dados.
 
 
 
